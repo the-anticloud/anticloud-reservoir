@@ -1,0 +1,39 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:3a81fb13-10d3-5f33-91c6-d7d4f91a77d8",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T16:57:06Z",
+  "component": {
+   "type": "application",
+   "name": "RESERVOIR",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/RESERVOIR@83b357604d34",
+   "purl": "pkg:generic/anticloud/RESERVOIR@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "sha_unverified": true
+}
